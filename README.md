@@ -12,7 +12,7 @@ Run the code on Windows Command Prompt:
 1. Open the command prompt windows by pressing the Win+R key combination, which will take you to the Run dialog. Once you’re there, type in cmd and press Enter.
 
 2. In the cmd window type:
-    py "name of README file"
+    python "name of README file"
 
 Use exact name of the file and the code will read it and download the .osm map file from overpass api for use in OpenStreetMap Import mod for Cities Skylines.
 

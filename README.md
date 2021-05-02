@@ -15,3 +15,7 @@ Run the code on Windows Command Prompt:
     py "name of README file"
 
 Use exact name of the file and the code will read it and download the .osm map file from overpass api for use in OpenStreetMap Import mod for Cities Skylines.
+
+For windows users still with doubt on how to run the code i found this video on youtube explaining how to run a python code on windows:
+
+https://www.youtube.com/watch?v=Qi28uPKaH_A
